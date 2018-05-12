@@ -1,0 +1,25 @@
+_repo: Two-Years-in-Oregon_35288
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35288-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nash, Wallis
+    gutenberg_agent_id: '37578'
+    url: http://www.gutenberg.org/2009/agents/37578
+description: ''
+gutenberg_issued: '2011-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35288'
+  lccn: rc01000401
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon -- Description and travel'
+- !lcc 'F850.5'
+title: Two Years in Oregon
+url: http://www.gutenberg.org/ebooks/35288
